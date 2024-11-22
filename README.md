@@ -64,4 +64,6 @@ INIAD++という拡張機能を通じて作成したHTMLファイルの場合、
    で検索し、置換の部分に
    ```<div class='blank'></div><div class='blank'></div><div class='blank'></div></div></body>```
    を入れて全置換。
+3. このjsフォルダ(ファイルではない)をHTMLファイルの入ったフォルダに入れてください
+
 これで、講義資料が見やすくなるはずです。
